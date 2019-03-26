@@ -9,8 +9,7 @@ export default Route.extend({
           chance: 'In',
           cupChance: '36.6%',
           pointLeader: 'Nikita Kucherov',
-          coach: 'Jon Cooper',
-          logo: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
+          coach: 'Jon Cooper'
         }, {
             id: 'flames',
             name: 'Calgary Flames',
@@ -19,7 +18,6 @@ export default Route.extend({
             cupChance: '15.7%',
             pointLeader: 'Johnny Gaudreau',
             coach: 'Bill Peters',
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
           }, {
             id: 'sharks',
             name: 'San Jose Sharks',
@@ -28,7 +26,6 @@ export default Route.extend({
             cupChance: '5.6%',
             pointLeader: 'Brent Burns',
             coach: 'Peter DeBoer',
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
           }, {
             id: 'jets',
             name: 'Winnipeg Jets',
@@ -37,7 +34,6 @@ export default Route.extend({
             cupChance: '7.0%',
             pointLeader: 'Blake Wheeler',
             coach: 'Paul Maurice',
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
           }, {
             id: 'bruins',
             name: 'Boston Bruins',
@@ -46,7 +42,6 @@ export default Route.extend({
             cupChance: '4.8%',
             pointLeader: 'Brad Marchand',
             coach: 'Bruce Cassidy',
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
           }, {
             id: 'oilers',
             name: 'Edmonton Oilers',
@@ -55,7 +50,6 @@ export default Route.extend({
             cupChance: '0%',
             pointLeader: 'Connor McDavid',
             coach: 'Ken Hitchcock',
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
           }];
       }
 });
